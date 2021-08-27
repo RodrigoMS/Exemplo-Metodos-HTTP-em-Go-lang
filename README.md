@@ -1,1 +1,1 @@
-# Exemplo-Metodos-HTTP-em-Go-lang
+# Exemplo de uso dos métodos HTTP na linguagem Go
