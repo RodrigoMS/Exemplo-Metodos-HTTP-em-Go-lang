@@ -1,1 +1,10 @@
-# Exemplo de uso dos métodos HTTP na linguagem Go
+# Exemplo de uso de métodos HTTP na linguagem Go
+
+<p>Este exemplo é parte do vídeo "Golang Web - Usando métodos HTTP para definir rotas no servidor GO"
+Disponível em: https://youtu.be/lEAEUd4n-Yw </p>
+
+<br>
+
+<p align="center">
+  <img alt="Happy" src=".github/methos_example.png" width="100%">
+</p>
