@@ -6,5 +6,5 @@
 <br>
 
 <p align="center">
-  <img alt="methods" src=".github/methods_example.png" width="100%">
+  <img alt="methods" src="github/methods_example.png" width="100%">
 </p>
