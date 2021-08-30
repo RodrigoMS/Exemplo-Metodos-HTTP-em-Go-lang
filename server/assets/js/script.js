@@ -2,10 +2,10 @@
 /*                                                                */
 /* Script exemplo de manipulação e envio de formulário assíncrono */ 
 /* para o vídeo sobre methods HTTP com GO disponível no Youtube.  */
-/* URL:                                                           */
+/* URL:https://youtu.be/lEAEUd4n-Yw                               */ 
 /*                                                                */
 /* Por: Rodrigo Messias.                                          */
-/* Data: 07 de julho de 2021.                                     */
+/* Data: 29 de agosto de 2021.                                    */
 /* Versão: 1.0                                                    */
 /*                                                                */
 /* ---------------------------------------------------------------*/

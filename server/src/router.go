@@ -3,8 +3,11 @@
 /* Pacote que verifica a rota de solicitação e executa a função   */
 /* correspondente.                                                */
 /*                                                                */
-/* Veja a implementação no Youtube:                               */
-/* URL:                                                           */
+/* URL:https://youtu.be/lEAEUd4n-Yw                               */ 
+/*                                                                */
+/* Por: Rodrigo Messias.                                          */
+/* Data: 29 de agosto de 2021.                                    */
+/* Versão: 1.0                                                    */
 /*                                                                */
 /* ---------------------------------------------------------------*/
 

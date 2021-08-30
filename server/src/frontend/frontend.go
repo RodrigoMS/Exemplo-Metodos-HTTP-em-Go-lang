@@ -3,10 +3,11 @@
 /* Pacote solicitado quando a página inicial do aplicativo é      */
 /* requerida.                                                     */
 /*                                                                */
-/* Youtube URL:                                                   */
+/* Veja a implementação no Youtube:                               */
+/* URL:https://youtu.be/lEAEUd4n-Yw                               */ 
 /*                                                                */
 /* Por: Rodrigo Messias.                                          */
-/* Data: 07 de julho de 2021.                                     */
+/* Data: 29 de agosto de 2021.                                    */
 /* Versão: 1.0                                                    */
 /*                                                                */
 /* ---------------------------------------------------------------*/

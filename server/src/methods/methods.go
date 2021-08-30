@@ -4,7 +4,11 @@
 /* com o método HTTP e/ou parâmetros via URL.                     */
 /*                                                                */
 /* Veja a implementação no Youtube:                               */
-/* URL:                                                           */
+/* URL:https://youtu.be/lEAEUd4n-Yw                               */ 
+/*                                                                */
+/* Por: Rodrigo Messias.                                          */
+/* Data: 29 de agosto de 2021.                                    */
+/* Versão: 1.0                                                    */
 /*                                                                */
 /* ---------------------------------------------------------------*/
 

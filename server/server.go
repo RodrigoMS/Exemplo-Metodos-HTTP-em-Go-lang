@@ -2,10 +2,10 @@
 /*                                                                */
 /* Implementação do servidor GO para o exemplo do vídeo sobre     */ 
 /* métodos HTTP com GO disponível no Youtube.                     */
-/* URL:                                                           */ 
+/* URL:https://youtu.be/lEAEUd4n-Yw                               */ 
 /*                                                                */
 /* Por: Rodrigo Messias.                                          */
-/* Data: 07 de julho de 2021.                                     */
+/* Data: 29 de agosto de 2021.                                    */
 /* Versão: 1.0                                                    */
 /*                                                                */
 /* ---------------------------------------------------------------*/
