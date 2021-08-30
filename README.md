@@ -6,5 +6,5 @@ Disponível em: https://youtu.be/lEAEUd4n-Yw </p>
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/methos_example.png" width="100%">
+  <img alt="methods" src=".github/methods_example.png" width="100%">
 </p>
